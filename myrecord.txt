@@ -1,0 +1,14 @@
+wiki addition box
+login and create accout page
+10 local recipes
+contact
+about
+
+
+
+
+
+for back-end, users much sign up before viewung the recipes or adding to wiki
+once the user is logged in hide the login page and sign up page 
+the blog page is a dummy, informations about a particular meal should be fetched from the database
+the Single-recipe.php is the sample of how the information collected from the database should look like
